@@ -1,0 +1,9 @@
+/* es1*/
+.ex-1-square {
+    transition: background 1s;
+}
+
+.ex-1-square:hover {
+    background: red;
+}
+/* es2*/
