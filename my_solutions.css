@@ -88,9 +88,9 @@
 }
 /* es11*/
 .well .ex-11-icon:hover {
-    animation: rotate 1s linear;
+    animation: rotate-11 1s linear;
 }
-@keyframes rotate {
+@keyframes rotate-11 {
     0%{
         transform: rotate(0);
     }
@@ -102,3 +102,6 @@
     }
 }
 /* es12*/
+.ex-12-top-white {
+
+}
