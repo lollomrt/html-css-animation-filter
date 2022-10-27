@@ -86,3 +86,18 @@
         transform: rotate(-360deg)
     }
 }
+/* es11*/
+.ex-11-icon:hover {
+    animation: rotate-11 1s linear;
+}
+@keyframes rotate-11 {
+    0%{
+        transform: rotate(0);
+    }
+    75%{
+        transform: rotate(270deg);
+    }
+    100%{
+        transform: rotate(0);
+    }
+}
