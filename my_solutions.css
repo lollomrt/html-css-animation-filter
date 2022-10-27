@@ -87,10 +87,10 @@
     }
 }
 /* es11*/
-.ex-11-icon:hover {
-    animation: rotate-11 1s linear;
+.well .ex-11-icon:hover {
+    animation: rotate 1s linear;
 }
-@keyframes rotate-11 {
+@keyframes rotate {
     0%{
         transform: rotate(0);
     }
@@ -101,3 +101,4 @@
         transform: rotate(0);
     }
 }
+/* es12*/
